@@ -3,6 +3,8 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 //A new line added
 //Comment Line 2
+//Comment Line 3
+
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
