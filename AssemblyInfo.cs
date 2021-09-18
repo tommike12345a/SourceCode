@@ -4,6 +4,7 @@ using System.Runtime.InteropServices;
 //A new line added
 //Comment Line 2
 //Comment Line 3
+//Comment Line 4
 
 
 // General Information about an assembly is controlled through the following
